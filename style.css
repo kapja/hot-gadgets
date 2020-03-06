@@ -1,0 +1,69 @@
+.title-catagories{
+    text-align: center;
+}
+.catagorie-underline{
+    background-color: orange;
+    height: 5px;
+    width: 130px;
+    border-radius: 10px;
+}
+.catagories-title-underline{
+    padding-bottom: 100px;
+}
+.bag-bg{
+    background-color: white;
+    padding: 10px 30px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.perfume-bg{
+    background-color: white;
+    padding: 10px 30px;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.shoe-bg{
+    background-color: white;
+    padding: 10px 30px;
+    margin-top: 30px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+h5{
+    text-align: center;
+}
+.bag-bg img{
+    padding: 20px 30px;
+}
+.perfume-bg img{
+    padding: 20px 30px;
+}
+.shoe-bg img{
+    padding: 20px 30px;
+}
+.bg-radious{
+    border-radius: 10px;
+}
+.carousel-bg{
+    background-color: lightyellow;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.nav-container, .car-container, .smartphone-container, .laptop-container{
+    padding-bottom: 100px;
+}
+.buy-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-indicators li {
+   
+    background-color: orange;
+}  
+.last-cat-container{
+    padding-bottom: 100px;
+}
